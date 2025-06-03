@@ -71,6 +71,5 @@ Contributions are welcome! If you have an idea for a project or an improvement, 
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
 ## 📬 Contact
-<p align="left"> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="www.linkedin.com/in/banuka-liyanage-2479542a8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/> </p> ```
+<p align="left"> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/banuka-liyanage-2479542a8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/> </p> ```
 
