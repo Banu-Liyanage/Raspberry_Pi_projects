@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Raspberry%20Pi%20Projects&fontSize=40&fontAlignY=35&desc=By%20Banu%20Liyanage&descAlignY=60&descAlign=62" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Raspberry%20Pi%20Projects&fontSize=40&fontAlignY=35&desc=By%20Banuka%20Liyanage&descAlignY=60&descAlign=62" alt="Header"/>
 </p>
 
 <p align="center">
