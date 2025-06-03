@@ -52,12 +52,11 @@ This repository is a curated collection of Raspberry Pi projects developed by Ba
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/Banu-Liyanage/Raspberry_Pi_projects.git
+
 2. Navigate to the Project Folder
-bash
-Copy
-Edit
+
 cd Raspberry_Pi_projects/<Project_Name>
 3. Follow Project Instructions
 Each folder contains a README.md with setup instructions and dependencies.
