@@ -53,26 +53,24 @@ This repository is a curated collection of Raspberry Pi projects developed by Ba
 ### 1. Clone the Repository
 
 
+```bash
 git clone https://github.com/Banu-Liyanage/Raspberry_Pi_projects.git
+```
 
-2. Navigate to the Project Folder
-
+## 2. Navigate to the Project Folder
+```bash
 cd Raspberry_Pi_projects/<Project_Name>
-3. Follow Project Instructions
+```
+### 3. Follow Project Instructions
 Each folder contains a README.md with setup instructions and dependencies.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you have an idea for a project or an improvement, feel free to fork the repo and submit a pull request. For major changes, please open an issue first.
 
-📄 License
+## 📄 License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
-📬 Contact
+## 📬 Contact
 <p align="left"> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/> </p> ```
-✅ To Finish:
-Replace image paths like assets/security_demo.gif with actual file paths or external links.
 
-Update mailto: and LinkedIn URL with your actual contact details.
-
-Add more projects to the list as you grow the repo.
